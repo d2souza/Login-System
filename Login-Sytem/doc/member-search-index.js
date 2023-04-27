@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"br.com.portfolio.daniel.loginSystem","c":"Main","l":"Main()","url":"%3Cinit%3E()"},{"p":"br.com.portfolio.daniel.loginSystem","c":"Main","l":"main(String[])","url":"main(java.lang.String[])"}]
